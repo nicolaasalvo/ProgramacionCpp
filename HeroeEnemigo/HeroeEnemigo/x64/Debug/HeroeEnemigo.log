@@ -1,0 +1,4 @@
+﻿  HeroeEnemigo.cpp
+D:\entornos\HeroeEnemigo\HeroeEnemigo.cpp(55,11): error C2429: función de idioma 'Enlaces estructurados' requiere la marca de compilador '/std:c++17'
+D:\entornos\HeroeEnemigo\HeroeEnemigo.cpp(62,11): error C2429: función de idioma 'Enlaces estructurados' requiere la marca de compilador '/std:c++17'
+D:\entornos\HeroeEnemigo\HeroeEnemigo.cpp(80,15): error C2429: función de idioma 'Enlaces estructurados' requiere la marca de compilador '/std:c++17'
